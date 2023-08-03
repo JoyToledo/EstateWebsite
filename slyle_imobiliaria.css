@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+div#cabeçalho {
+    background-color: rgb(172, 221, 243);
+
+
+}
+
+div#serviços,
+div#contato {
+    background-color: rgb(57, 140, 250);
+    color: white;
+
+}
+
+img {
+
+    margin: auto;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img#logo-img {
+    margin-top: 80px;
+    margin-bottom: 50px;
+    width: 150px;
+}
+
+span {
+    color: red;
+}
+
+a {
+    color: white;
+    /* cor dos links */
+    text-decoration: none;
+    font-size: 20px;
+}
+
+li {
+    margin-top: 15px;
+}
+
+ul {
+    margin-top: 50px;
+}
